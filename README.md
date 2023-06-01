@@ -166,4 +166,4 @@ Obs: Essa operação também remove todos os produtos relacionados a este estoqu
 
 ## Considerações Finais
 
-Essa API foi desenvolvida para facilitar o controle de estoque e gerenciamento de produtos. Sinta-se à vontade para utilizar os endpoints disponíveis e contribuir para melhorias deste projeto. Em caso de dúvidas ou problemas, entre em contato com a equipe de desenvolvimento.
+Essa API foi desenvolvida para facilitar o controle de estoque e gerenciamento de produtos. Sinta-se à vontade para utilizar os endpoints disponíveis e contribuir para melhorias deste projeto. Em caso de dúvidas ou problemas, entre em contato.
