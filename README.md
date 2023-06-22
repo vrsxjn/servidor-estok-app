@@ -161,7 +161,7 @@ Obs: Essa operação também remove todos os produtos relacionados a este estoqu
 {
 "file_name": "nomedoarquivo",
 "mime_type": "image/jpeg",
-"base64": "/9j/4AAQSkZJRgABAQEAYABgAAD/" // base64 deve ter a imagem codificada em base64, conforme visto em aula
+"base64": "/9j/4AAQSkZJRgABAQEAYABgAAD/" // base64 deve ter a imagem codificada em base64
 }
 
 ## Considerações Finais
