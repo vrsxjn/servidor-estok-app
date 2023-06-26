@@ -53,7 +53,7 @@ A seguir, estão listados os endpoints disponíveis nesta API, juntamente com as
 **Adicionar estoque**
 
 - Método: `POST`
-- URL: `http://54.90.203.92/estoques/`
+- URL: `http://localhost:3000/estoques/`
 - Token necessário: Sim
 
 **Requisição:**
@@ -164,6 +164,3 @@ Obs: Essa operação também remove todos os produtos relacionados a este estoqu
 "base64": "/9j/4AAQSkZJRgABAQEAYABgAAD/" // base64 deve ter a imagem codificada em base64
 }
 
-## Considerações Finais
-
-Essa API foi desenvolvida para facilitar o controle de estoque e gerenciamento de produtos. Sinta-se à vontade para utilizar os endpoints disponíveis e contribuir para melhorias deste projeto. Em caso de dúvidas ou problemas, entre em contato.
